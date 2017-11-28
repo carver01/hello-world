@@ -1,4 +1,4 @@
-# hello-world
+# Software Readme
 Software
 ---
 
@@ -6,7 +6,7 @@ ArduinoProgram
 Example code
 ---
 
-in the xample code software folder is the source code of the main devolper Megatronics. There printed circuit board is normaly used in 3DPrinting.
+In the example code software folder is the source code of the main devolper Megatronics. There printed circuit board is normaly used in 3DPrinting.
 They provide testing firware to check if the board is functional.
 The Marlin Folder contains the most commen used 3D firmware out there.
 
@@ -21,5 +21,5 @@ ArduinoVisualBasicSerial
 ---
 
 These files are used for the visualizations part for the arduino.
-you will need visualstudio installed before you can open the files.
-if you open Arduino Serial data RX_TX.sln with visualstudio, the whole project will open.
+You will need visualstudio installed before you can open the files.
+If you open Arduino Serial data RX_TX.sln with visualstudio, the whole project will open.
