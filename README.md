@@ -1,3 +1,3 @@
 # hello-world
-A Test guide
+A Test guide.
 this is testing braches on the platform
